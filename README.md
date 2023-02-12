@@ -1,23 +1,14 @@
 # Creates random color
 
-### 🧰 Languages and Tools <br>
-
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-<br />
-
-#
-
 The application was created to select colors. 
 If you want to refresh your design, the application will help with this.
 
 You will see five columns on the screen. Each will have its own color, as well as the name of the color in "hex" format. Also, there is a lock at the bottom of the screen. By clicking on which, you will fix this color and it will not change in the future. In this way, it will be easier to choose the desired color.
 
 The color changes when you press the space bar on your keyboard.
+#
 
-Functionality:
+### Functionality:
 
 ⌨️ Space bar - changes the color of columns in random order.
 
@@ -25,6 +16,16 @@ Functionality:
 
 🔍 The name of the color in hex format - by clicking on it, the hex code will be copied to the clipboard, and you can transfer it to any file you need.
 
+#
+
+### Languages and Tools <br>
+
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<br />
+
+#
 
 The web version can be seen at the link (https://creates-random-color-tkuts.vercel.app)
 
